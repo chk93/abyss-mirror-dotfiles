@@ -19,6 +19,6 @@ Back up your system before installation
 
 Copy Wallpapers folder to ~/
 
-Copy other folders to ~/.config
+Copy other folders to ~/.config/
 
 reboot system
