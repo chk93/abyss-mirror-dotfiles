@@ -6,14 +6,14 @@ I created it using void linux, but on other distributions, everything should wor
 
 Instructions for changing the wallpaper are located directly in the sway config
 
-## Requirements
+### Requirements
 
 - sway
 - waybar
 - wofi
 - ghostty
 
-## Installation
+### Installation
 
 Back up your system before installation
 
