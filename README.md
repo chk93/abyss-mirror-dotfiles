@@ -1,4 +1,6 @@
-Minimalist rice for sway, I created it without using AI. 
+###Minimalist rice for sway,
+
+I created it without using AI. 
 
 I created it using void linux, but on other distributions, everything should work too. 
 
