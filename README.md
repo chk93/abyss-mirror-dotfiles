@@ -1,4 +1,4 @@
-###Minimalist rice for sway,
+### Minimalist rice for sway,
 
 I created it without using AI. 
 
