@@ -1,0 +1,13 @@
+font-size = 16
+theme = Banana Blueberry
+background = #000000
+foreground = #e5e5e5
+
+background-opacity = 0.85
+cursor-style = block
+cursor-color = #ffffff
+
+font-family = JetBrainsMono Nerd Font
+font-size = 16
+font-thicken = true
+
