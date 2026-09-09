@@ -62,7 +62,7 @@ other binds are default
 
 `cp -r ~/.config/ ~/dotfiles_backup`
 
-`cp -r ~/Wallpaper/ ~/dotfiles_backup`
+`cp -r ~/Wallpapers/ ~/dotfiles_backup`
 
 `cp -r ~/.bashrc ~/dotfiles_backup`
 
