@@ -90,6 +90,9 @@ output * bg ~/Wallpapers/0-wallpapers.jpg fill
     # Reload the configuration file
     bindsym $mod+Shift+c reload
 
+    bindsym $mod+Ctrl+s exec grim -g "$(slurp)" ~/Screenshots/$(date +'%Y-%m-%d-%H%M%S_grim.png')
+    bindsym $mod+Shift+s exec grim -g "$(slurp)" - | wl-copy
+
     # Exit sway (logs you out of your Wayland session)
     bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
 #
