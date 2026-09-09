@@ -26,6 +26,7 @@ Instructions for changing the wallpaper are located directly in the sway config
 - waybar
 - wofi
 - ghostty
+- bash
 
 ### Keybinds
 
@@ -53,6 +54,8 @@ other binds are default
 
 `cp -r ~/Wallpaper/ ~/dotfiles_backup`
 
+`cp -r ~/.bashrc ~/dotfiles_backup`
+
 `cp -rf ~/abyss-mirror-dotfiles/sway ~/.config`
 
 `cp -rf ~/abyss-mirror-dotfiles/ghostty ~/.config`
@@ -60,6 +63,8 @@ other binds are default
 `cp -rf ~/abyss-mirror-dotfiles/waybar ~/.config`
 
 `cp -rf ~/abyss-mirror-dotfiles/wofi ~/.config`
+
+`cp -rf ~/abyss-mirror-dotfiles/.bashrc ~/`
 
 `cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/`
 
