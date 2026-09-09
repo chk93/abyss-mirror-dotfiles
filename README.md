@@ -79,3 +79,17 @@ other binds are default
 `cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/`
 
 `sudo reboot`
+
+### Or use script 
+
+But I'm not sure if it works. Use at your own risk
+
+`cd`
+
+`git clone https://github.com/chk93/abyss-mirror-dotfiles`
+
+`cd abyss-mirror-dotfile`
+
+`chmod -x install.sh`
+
+`./install.sh`
