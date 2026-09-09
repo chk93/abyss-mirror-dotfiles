@@ -28,6 +28,12 @@ Instructions for changing the wallpaper are located directly in the sway config
 - ghostty
 - bash
 
+### Optional requirement
+
+- grim
+- slurp
+- wl-clipboard
+
 ### Keybinds
 
 win + t = Terminal
@@ -37,6 +43,10 @@ win + q = Kill
 win + d = menu(wofi)
 
 win + c  = Browser(firefox)
+
+win + Shift + s = Screenshot to clipboard
+
+win + Ctrl + s = Screenshot to ~/Screenshots
 
 other binds are default
 
