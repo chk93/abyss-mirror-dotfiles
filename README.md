@@ -23,6 +23,14 @@ Instructions for changing the wallpaper are located directly in the sway config
 - wofi
 - ghostty
 
+### Keybinds
+
+win + t = Terminal
+win + q = Kill
+win + d = menu(wofi)
+win + c  = Browser(firefox)
+other binds are default
+
 ### Installation
 
 Back up your system before installation
