@@ -41,10 +41,26 @@ other binds are default
 
 ### Installation
 
-Back up your system before installation
+`cd`
 
-Copy Wallpapers folder to ~/
+`git clone https://github.com/chk93/abyss-mirror-dotfiles`
 
-Copy other folders to ~/.config/
+`mkdir dotfiles_backup`
 
-reboot system
+`mkdir Wallpapers`
+
+`cp -r ~/.config/ ~/dotfiles_backup`
+
+`cp -r ~/Wallpaper/ ~/dotfiles_backup`
+
+`cp -rf ~/abyss-mirror-dotfiles/sway ~/.config`
+
+`cp -rf ~/abyss-mirror-dotfiles/ghostty ~/.config`
+
+`cp -rf ~/abyss-mirror-dotfiles/waybar ~/.config`
+
+`cp -rf ~/abyss-mirror-dotfiles/wofi ~/.config`
+
+`cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/`
+
+`sudo reboot`
