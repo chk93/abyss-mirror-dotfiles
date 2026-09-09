@@ -1,4 +1,4 @@
-# Minimalist rice for sway
+# Minimalistic rice for sway
 
 <img width="1920" height="1079" alt="2026-09-09-140621_grim" src="https://github.com/user-attachments/assets/49f1df22-85de-49f5-a083-f77ead3d0f50" />
 
