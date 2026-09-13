@@ -52,44 +52,48 @@ other binds are default
 
 ### Installation
 
-`cd`
+```
+cd
 
-`git clone https://github.com/chk93/abyss-mirror-dotfiles`
+git clone https://github.com/chk93/abyss-mirror-dotfiles
 
-`mkdir dotfiles_backup`
+mkdir dotfiles_backup
 
-`mkdir Wallpapers`
+mkdir Wallpapers`
 
-`cp -r ~/.config/ ~/dotfiles_backup`
+cp -r ~/.config/ ~/dotfiles_backup
 
-`cp -r ~/Wallpapers/ ~/dotfiles_backup`
+cp -r ~/Wallpapers/ ~/dotfiles_backup
 
-`cp -r ~/.bashrc ~/dotfiles_backup`
+cp -r ~/.bashrc ~/dotfiles_backup`
 
-`cp -rf ~/abyss-mirror-dotfiles/sway ~/.config`
+cp -rf ~/abyss-mirror-dotfiles/sway ~/.config
 
-`cp -rf ~/abyss-mirror-dotfiles/ghostty ~/.config`
+cp -rf ~/abyss-mirror-dotfiles/ghostty ~/.config
 
-`cp -rf ~/abyss-mirror-dotfiles/waybar ~/.config`
+cp -rf ~/abyss-mirror-dotfiles/waybar ~/.config
 
-`cp -rf ~/abyss-mirror-dotfiles/wofi ~/.config`
+cp -rf ~/abyss-mirror-dotfiles/wofi ~/.config
 
-`cp -rf ~/abyss-mirror-dotfiles/.bashrc ~/`
+cp -rf ~/abyss-mirror-dotfiles/.bashrc ~/
 
-`cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/`
+cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/```
 
-`sudo reboot`
+sudo reboot
+```
 
 ### Or use script 
 
 But I'm not sure if it works. Use at your own risk
 
-`cd`
+```
+cd`
 
-`git clone https://github.com/chk93/abyss-mirror-dotfiles`
+git clone https://github.com/chk93/abyss-mirror-dotfiles
 
-`cd abyss-mirror-dotfile`
+cd abyss-mirror-dotfile
 
-`chmod -x install.sh`
+chmod -x install.sh
 
-`./install.sh`
+./install.sh
+```
