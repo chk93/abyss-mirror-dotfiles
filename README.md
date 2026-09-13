@@ -87,7 +87,7 @@ sudo reboot
 But I'm not sure if it works. Use at your own risk
 
 ```
-cd`
+cd
 
 git clone https://github.com/chk93/abyss-mirror-dotfiles
 
