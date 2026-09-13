@@ -5,7 +5,7 @@
 
 I created it without using AI. 
 
-I created it using void linux, but on other distributions, everything should work too. 
+I created it using void linux(also tested on Arch), but on other distributions, everything should work too. 
 
 Instructions for changing the wallpaper are located directly in the sway config
 
