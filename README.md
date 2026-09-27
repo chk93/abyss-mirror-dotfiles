@@ -77,7 +77,7 @@ cp -rf ~/abyss-mirror-dotfiles/wofi ~/.config
 
 cp -rf ~/abyss-mirror-dotfiles/.bashrc ~/
 
-cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/```
+cp -rf ~/abyss-mirror-dotfiles/Wallpapers ~/
 
 sudo reboot
 ```
